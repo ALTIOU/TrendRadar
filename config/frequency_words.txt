@@ -9,12 +9,9 @@ HarmonyOS
 
 宇树
 
-智元
-
 黑神话
 
 哪吒
-饺子
 
 米哈游
 原神
@@ -38,15 +35,6 @@ xiaomi
 NVIDIA
 
 AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-Sam Altman
-openai
 
 claude
 Anthropic
@@ -72,5 +60,4 @@ ai
 中国
 
 美国
-
 科技
